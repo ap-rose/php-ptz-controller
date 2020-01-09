@@ -1,5 +1,5 @@
 # PHP PTZ Controller
-PHP PTZ Controller is a PHP API to control EC76-U15 (IPC365) 360Eye S
+PHP PTZ Controller is a PHP API to control EC76-U15 (IPC365) 360Eye S with the use of packets
 ```php
 #Author: 	Ap Rose
 #Version:	0.0.1
