@@ -23,17 +23,17 @@ Navigate ptzcontrol.php using params
 ## Usage
 
 ```url
-/ptzcontrol.php?host=192.168.1.68&port=23456action=***
+/ptzcontrol.php?host=192.168.1.68&port=23456action=*
 ```
-#### Host ***
+#### Host
 ```css
 IP used by camera
 ```
-#### Port ***
+#### Port
 ```css
 Port used by camera
 ```
-#### Actions ***
+#### Actions *
 ```css
 up
 down
